@@ -1,0 +1,25 @@
+﻿ENEMY SHIP
+  __||__
+|=\ || /=|
+   \__/
+
+Friendly Ship
+    __
+   /  \
+| _|  |_ |
+|=|_||_|=|
+
+Asteroid
+ ___
+/   \_
+|     \
+\     /
+ \___/
+ Bun
+ 
+(\  /)
+( . .)
+c(") (")
+
+--MAKE THE WINDOW POS SHAKE WHEN HIT
+--MAKE OPTIONS > B/W MODE FOR FPS IMPROVEMENT, BUT ADD COLORS
