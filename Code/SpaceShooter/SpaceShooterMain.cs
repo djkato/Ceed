@@ -197,6 +197,7 @@ namespace SpaceShooter
                 //RENDER IT OUT
                 Render.OutputFrame(_playerShip, _render.renderGrid, asteroidList, projectileList, pirateList);
                 Thread.Sleep(70);
+                Console.Clear();
             }
         }
     }
